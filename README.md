@@ -7,4 +7,3 @@
   <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willsonbs&layout=compact&langs_count=16&theme=react"/>
 </div>
 
-![Snake animation](https://github.com/Willsonbs/blob/output/github-contribution-grid-snake.svg)
