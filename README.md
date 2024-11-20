@@ -1,9 +1,12 @@
 ## Fala aí Dev, Wilson Faria aqui 👋
 
-<div>
+
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=willsonbs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=Willsonbs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willsonbs&layout=compact&langs_count=16&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=willsonbs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+
 
